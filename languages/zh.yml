@@ -14,7 +14,7 @@ home:
 
 postlist:
   time: 发布于 %s
-  heat: '%s 热度'
+  heat: '%s ℃'
   comments: '%s 条评论'
 
 post:
